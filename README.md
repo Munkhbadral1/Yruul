@@ -1,6 +1,8 @@
 # Ерөөл
-
-[Ерөөлийн веб]
+<!--
+[Insert project description here]
+-->
+[Insert project description here]
 
 ## Table of Contents
 
@@ -11,7 +13,7 @@
 
 ## Installation
 
-[####]
+[Insert installation instructions here]
 
 ## Usage
 
