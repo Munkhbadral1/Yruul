@@ -156,7 +156,7 @@ p {
 
 /* Showcase */
 #showcase {
-  background: #333 url("../img/showcase.jpg") no-repeat center center/cover;    /*  <---  */
+  background: #333 url("../img/zurag1.jpg") no-repeat center center/cover;    /*  <---  */
   height: 100vh;
   color: #fff;
   display: flex;
@@ -234,7 +234,7 @@ p {
     
 
 #who .who-img {
-  background-image: url("../img/people.jpg");             /*  <---  */
+  background-image: url("../img/zurag4.jpg");             /*  <---  */
 }
 
 
@@ -283,7 +283,7 @@ padding: 1rem;
 #who div {
   flex: 1;}
 #who .who-img {
-background: url("../img/people.jpg") no-repeat center center/cover; }             /*  <---  */
+background: url("../img/zurag4.jpg") no-repeat center center/cover; }             /*  <---  */
 /* Section: Түншүүд */
 #clients .items {
   display: flex;
