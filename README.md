@@ -1,6 +1,6 @@
-# Project Name
+# Ерөөл
 
-[Insert project description here]
+[Ерөөлийн веб]
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@
 
 ## Installation
 
-[Insert installation instructions here]
+[####]
 
 ## Usage
 
