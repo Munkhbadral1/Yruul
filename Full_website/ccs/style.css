@@ -254,6 +254,55 @@ p {
   }
   #clients .items img:hover {
   filter: grayscale(0%);
-  }
   
+  /* Overlay */
+  position: absolute;
+  top: 60px;
+  left: 0;
+  right: 0;
+bottom: 0;
+background: rgba(0, 0, 0, 0.6);
+}
+/* Section: Бид юу хийдэг вэ? */
+#what .items {
+  display: flex;
+padding: 1rem;
+}
+#what .items .item { flex: 1; text-align: center; padding: 1rem;
+}
+#what .items .item i {
+  background: #93cb52;
+  padding: 1rem;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+/* Section: Бид хэн бэ? */
+#who {
+  display: flex;}
+#who div {
+  flex: 1;}
+#who .who-img {
+background: url("../img/people.jpg") no-repeat center center/cover; }
+/* Section: Түншүүд */
+#clients .items {
+  display: flex;
+}
+#clients .items img {
+  display: block;
+  margin: auto;
+  width: 60%;
+}
+#contact {
+  display: flex;
+}
+#contact .map, #contact .contact-form {
+flex: 1; }
+#contact .contact-form .form-group { margin: 0.75rem;
+}
+#contact .contact-form label { display: block;
   
+}
+#contact .contact-form input, #contact .contact-form textarea {
+width: 100%;
+  padding: 0.5rem;
+}
